@@ -1,0 +1,5 @@
+Git Useful Commands
+-------------------
+git add .
+git commit -m "here goes the commit message"
+git push
